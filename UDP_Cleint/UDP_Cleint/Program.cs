@@ -17,13 +17,14 @@ class Program
         Boolean done = false;
         Boolean exception_thrown = false;
         Socket sending_socket = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.Udp);
-        //string serverIPAddress = "67.191.68.182"; //67.191.68.182 10.0.0.77
+        string serverIPAddress = "67.191.68.182"; //67.191.68.182 10.0.0.77
 
         //IPAddress send_to_address = IPAddress.Parse("67.191.68.182"); //67.191.68.182 10.0.0.77
         //IPEndPoint sending_end_point = new IPEndPoint(send_to_address, 11000);
 
         UdpClient sender = new UdpClient();
-        sender.Connect("67.191.68.182", 11000);
+        //sender.Connect("67.191.68.182", 11000);
+        sender.Connect(serverIPAddress, 11000);
         //sender.Connect("10.0.0.77", 11000);
         //sender.Connect(serverIPAddress, 11000);
 
@@ -47,7 +48,7 @@ class Program
 
 
         UdpClient listener = new UdpClient(sentport);
-        listener.Connect("67.191.68.182", Int32.Parse(received_data));
+        listener.Connect(serverIPAddress, Int32.Parse(received_data));
         listener.Send(senddata, senddata.Length);
         Console.WriteLine("New Server Port: " + received_data);
 

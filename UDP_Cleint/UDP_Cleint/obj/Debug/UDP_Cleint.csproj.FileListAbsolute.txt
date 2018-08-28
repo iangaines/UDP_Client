@@ -5,3 +5,10 @@ c:\users\ian\source\repos\UDP_Cleint\UDP_Cleint\obj\Debug\UDP_Cleint.csprojAssem
 c:\users\ian\source\repos\UDP_Cleint\UDP_Cleint\obj\Debug\UDP_Cleint.csproj.CoreCompileInputs.cache
 c:\users\ian\source\repos\UDP_Cleint\UDP_Cleint\obj\Debug\UDP_Cleint.exe
 c:\users\ian\source\repos\UDP_Cleint\UDP_Cleint\obj\Debug\UDP_Cleint.pdb
+C:\Users\Ian\Documents\GitHub\UDP_Client\UDP_Cleint\UDP_Cleint\bin\Debug\UDP_Cleint.exe.config
+C:\Users\Ian\Documents\GitHub\UDP_Client\UDP_Cleint\UDP_Cleint\bin\Debug\UDP_Cleint.exe
+C:\Users\Ian\Documents\GitHub\UDP_Client\UDP_Cleint\UDP_Cleint\bin\Debug\UDP_Cleint.pdb
+C:\Users\Ian\Documents\GitHub\UDP_Client\UDP_Cleint\UDP_Cleint\obj\Debug\UDP_Cleint.csprojAssemblyReference.cache
+C:\Users\Ian\Documents\GitHub\UDP_Client\UDP_Cleint\UDP_Cleint\obj\Debug\UDP_Cleint.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Documents\GitHub\UDP_Client\UDP_Cleint\UDP_Cleint\obj\Debug\UDP_Cleint.exe
+C:\Users\Ian\Documents\GitHub\UDP_Client\UDP_Cleint\UDP_Cleint\obj\Debug\UDP_Cleint.pdb
