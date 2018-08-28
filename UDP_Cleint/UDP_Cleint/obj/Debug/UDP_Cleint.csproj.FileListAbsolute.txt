@@ -1,0 +1,7 @@
+c:\users\ian\source\repos\UDP_Cleint\UDP_Cleint\bin\Debug\UDP_Cleint.exe.config
+c:\users\ian\source\repos\UDP_Cleint\UDP_Cleint\bin\Debug\UDP_Cleint.exe
+c:\users\ian\source\repos\UDP_Cleint\UDP_Cleint\bin\Debug\UDP_Cleint.pdb
+c:\users\ian\source\repos\UDP_Cleint\UDP_Cleint\obj\Debug\UDP_Cleint.csprojAssemblyReference.cache
+c:\users\ian\source\repos\UDP_Cleint\UDP_Cleint\obj\Debug\UDP_Cleint.csproj.CoreCompileInputs.cache
+c:\users\ian\source\repos\UDP_Cleint\UDP_Cleint\obj\Debug\UDP_Cleint.exe
+c:\users\ian\source\repos\UDP_Cleint\UDP_Cleint\obj\Debug\UDP_Cleint.pdb
